@@ -2,7 +2,7 @@
 
 Esta es una aplicacion movil creada en ReactNative y ExpoGo
 
-![Alt text]('./assets/images/README/VistaIdeaFigma.png')
+![Alt text](./assets/images/README/VistaIdeaFigma.png)
 
 ## Explicacion 
 
